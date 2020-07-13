@@ -18,4 +18,10 @@ public partial class test01 : System.Web.UI.Page
         Label1.Text = "";
         Label1.Text = "QQQ";
     }
+
+    protected void Button2_Click(object sender, EventArgs e)
+    {
+        Label1.Text = "";
+        Label1.Text = "KKK";
+    }
 }

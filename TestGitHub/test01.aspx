@@ -12,6 +12,7 @@
         <div>
             Run :
             <asp:Button ID="Button1" runat="server" Text="Q" OnClick="Button1_Click" />
+            <asp:Button ID="Button2" runat="server" Text="K" OnClick="Button2_Click" />
             <br />
             Ans :
             <asp:Label ID="Label1" runat="server" ></asp:Label>
